@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">电话拨号器</string>
+    <string name="hello_world">输入电话号</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">拨打</string>
+    <string name="button1">click</string>
+</resources>
